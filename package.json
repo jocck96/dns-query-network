@@ -1,0 +1,19 @@
+{
+  "name": "dns-query-network",
+  "version": "1.0.0",
+  "description": "A lightweight DNS server and recursive forwarder written in Node.js.",
+  "type": "module",
+  "main": "src/dns_server.js",
+  "scripts": {
+    "start": "node src/dns_server.js",
+    "test": "node --test tests/"
+  },
+  "keywords": [
+    "dns",
+    "dns-server",
+    "networking",
+    "udp"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
