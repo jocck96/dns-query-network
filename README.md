@@ -81,3 +81,6 @@ This tests label decoders and binary DNS A-record builders.
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by jocck96.*
